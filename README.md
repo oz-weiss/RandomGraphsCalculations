@@ -7,7 +7,7 @@
 3) Is there at least one single junction?
 
 
-- Familiar algorithms that were used: BFS.
+# - Familiar algorithms that were used: BFS.
 
 # Data representation:
 <u>1) Link graph:<\u>
