@@ -1,4 +1,4 @@
-# Research and calculations on random graphs.
+# Random Gaphs
 
 
 <p align="center">
