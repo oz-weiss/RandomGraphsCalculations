@@ -1,6 +1,3 @@
-# randomGraphsCalculations
-
-
 ## Research questions:
 1) Is a link graph?
 2) What is the diameter of the graph?
