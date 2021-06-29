@@ -9,7 +9,7 @@
 ## Research questions:
 1) Random graph- connectivity\non-connectivity?
 2) What is the diameter of the graph?
-3) Can a random graph contain an isolated vertex?
+3) Random Graph - Can it contain an isolated vertex?
 
 
 ## Familiar algorithms that were used: BFS.
