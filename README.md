@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.geeksforgeeks.org/wp-content/uploads/undirectedgraph.png">
+</p>
+
+
 ## Research questions:
 1) Random graph- connectivity\non-connectivity?
 2) What is the diameter of the graph?
