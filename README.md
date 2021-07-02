@@ -1,4 +1,4 @@
-# Random Gaphs
+# Random Graphs
 
 
 <p align="center">
