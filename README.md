@@ -15,12 +15,12 @@
 ## Familiar algorithms that were used: BFS.
 
 ## Data representation:
-### connectivity of graph:
-     1 - connectivity 
-     0 - non-connectivity
+### Connectivity of graph:
+     1 - Connectivity 
+     0 - Non-connectivity
 ### Graph diameter:
      1 - Infinity
      -Any other number reflects the size of the diameter of the graph.
-### isolated vertex:
-     1 - exists
-     0 - does not exist
+### Isolated vertex:
+     1 - Exists
+     0 - Does not exist
